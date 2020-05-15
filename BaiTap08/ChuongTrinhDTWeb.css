@@ -1,0 +1,17 @@
+body{
+    background: aqua;
+}
+h3{
+    text-align: center;
+    color: red;
+    font-weight: bolder;
+}
+#mau1{
+    color: red;
+}
+#mau2{
+    color: blue;
+}
+p{
+    color: purple;
+}

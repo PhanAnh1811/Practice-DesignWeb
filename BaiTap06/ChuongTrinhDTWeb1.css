@@ -1,0 +1,16 @@
+h3{
+    color: red;
+    font-weight: 900;
+    text-align: center;
+    font-style: bold;
+}
+li{
+    color: royalblue;
+}
+#mau1{
+    color: red;
+}
+#mau2{
+    color: rgba(119, 11, 119, 0.89);
+    font-style: italic;
+}

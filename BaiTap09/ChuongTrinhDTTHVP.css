@@ -1,0 +1,19 @@
+body{
+    background-image: url(anh2.jpg);
+    background-repeat: no-repeat;
+}
+h1{
+    color: blue;
+    font-style: bold;
+    font-weight: 900;
+    text-align: center;
+}
+ol{
+    list-style: none;
+}
+#mau1{
+    color: crimson;
+}
+#mau2{
+    color: blue;
+}
